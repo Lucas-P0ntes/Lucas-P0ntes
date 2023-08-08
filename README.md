@@ -6,6 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-P0ntes&layout=compact&theme=tokyonight)
 
+![mirellesine's Stats](https://github-readme-stats.vercel.app/api?username=mirellesine&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ##
  
 <div> 
