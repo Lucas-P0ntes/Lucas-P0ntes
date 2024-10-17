@@ -1,15 +1,4 @@
 
-  
-  
-  
-  
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-
-
-
-
 
 ## Bem Vindo
 ### Oi, eu sou o Lucas👋
